@@ -10,13 +10,11 @@ But our children don't have that privilege. The web is their world. Social media
 
 Today's young generations are living in civilized cages when what they need is a **treehouse**.
 
-We don't deny the world we live in. Technology is here and it can be a beautiful thing. Our mission is to build a strong generation that revolves around three key `personas`:
+We don't deny the world we live in. Technology is here and it can be a beautiful thing. Our mission is to build a strong generation that revolves around three `personas`:
 
-`Explorer` - fostering curiosity about the world and respect for nature
-
-`Freethinker` - embracing first-principles thinking, critical analysis, and the courage to question what doesn't fit
-
-`Creator` - understanding technology, reasoning, and programming
++ `Explorer` - fostering curiosity about the world and respect for nature
++ `Freethinker` - embracing first-principles thinking, critical analysis, and the courage to question what doesn't fit
++ `Creator` - understanding technology, reasoning, and programming
 
 ## The Project
 **OS stands for Open School**
