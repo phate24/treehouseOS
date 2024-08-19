@@ -10,7 +10,7 @@ But our children don't have that privilege. The web is their world. Social media
 
 Today's young generations are living in civilized cages when what they need is a **treehouse**.
 
-We don't deny the world we live in. Technology is here and it can be a beautiful thing. Our mission is to build a strong generation that revolves around three key personas:
+We don't deny the world we live in. Technology is here and it can be a beautiful thing. Our mission is to build a strong generation that revolves around three key `personas`:
 
 `Explorer` - fostering curiosity about the world and respect for nature
 
@@ -32,3 +32,28 @@ Created today based on a set of rules, TreehouseOS will eventually become softwa
 **OS stands for Open Source**
 
 We want to prove that technology can do a lot of good. That is why we want to make use of its biggest advantage - scalability. The project will be public, available to contributors everywhere.
+
+## Treehouse structure
+
+Treehouse consists of `blocks`, `creators`, `blueprint`, `tree`, and ultimately `heroes`.
+
++ `Blocks` are the educational initiatives of `creators`, e.g., workshops, classes, or other activities that fit into the `blueprint`.
++ `Creators` are `promoters` (initiative coordinators), `builders` (instructors), `hosts` (owners of the `tree`), and `fundraisers` (charity coordinators).
++ `Blueprint` is an agreed matrix that defines the educational framework of the TreehouseOS project. Proposed dimensions mandatory to be defined for each `block`: main `persona` developed, target age group.
++ `Tree` is the venue where the block will be organized. Places should be close to nature.
++ `Heroes` are the young participants of the `blocks`
+
+## Governance model
+
+To fulfill the protocol's intent, a networked solution is needed to efficiently manage resources and fund proposed `blocks`. We are considering a model in which `creators` have a `voting right` in selecting `blocks` to fund. It is important to include some form of proof-of-work (`PoW`) to ensure a stronger voice for those more involved.
+
+`PoW` could include:
++ for `promoters`, `builders` and `hosts` - evaluation of participants, including reach of `blocks` (group size)
++ for `fundraisers` - accumulated funds
+
+It is important to note that one person can play more than one role, e.g. a cafe owner (`host`) who organizes a workshop (`promoter`) and raises money for TreehouseOS (`fundraiser`).
+
+### Further considerations
+
++ Establishment a `board of directors` with `veto power` as a safeguard against fraud attempts.
++ `Voting right` for `funders`
