@@ -46,7 +46,7 @@ Treehouse consists of `blocks`, `creators`, `blueprint`, `tree`, and ultimately 
 To fulfill the protocol's intent, a networked solution is needed to efficiently manage resources and fund proposed `blocks`. We are considering a model in which `creators` have a `voting right` in selecting `blocks` to fund. It is important to include some form of proof-of-work (`PoW`) to ensure a stronger voice for those more involved.
 
 `PoW` could include:
-+ for `promoters`, `builders` and `hosts` - evaluation of participants, including reach of `blocks` (group size)
++ for `promoters`, `builders` and `hosts` - evaluation from participants, including reach of `blocks` (group size)
 + for `fundraisers` - accumulated funds
 
 It is important to note that one person can play more than one role, e.g. a cafe owner (`host`) who organizes a workshop (`promoter`) and raises money for TreehouseOS (`fundraiser`).
