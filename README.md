@@ -36,7 +36,7 @@ We want to prove that technology can do a lot of good. That is why we want to ma
 Treehouse consists of `blocks`, `creators`, `blueprint`, `tree`, and ultimately `heroes`.
 
 + `Blocks` are the educational initiatives of `creators`, e.g., workshops, classes, or other activities that fit into the `blueprint`.
-+ `Creators` are `promoters` (initiative coordinators), `builders` (instructors), `hosts` (owners of the `tree`), and `fundraisers` (charity coordinators).
++ `Creators` include `promoters` (initiative coordinators), `builders` (instructors), `hosts` (owners of the `tree`), and `fundraisers` (charity coordinators).
 + `Blueprint` is an agreed matrix that defines the educational framework of the TreehouseOS project. Proposed dimensions mandatory to be defined for each `block`: main `persona` developed, target age group.
 + `Tree` is the venue where the block will be organized. Places should be close to nature.
 + `Heroes` are the young participants of the `blocks`
