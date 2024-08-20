@@ -17,29 +17,30 @@ We don't deny the world we live in. Technology is here and it can be a beautiful
 + `Creator` - understanding technology, reasoning, and programming
 
 ## The Project
-**OS stands for Open School**
+
+### OS stands for Open School
 
 The concept of a public charity that helps fund educators and contributors working to shape the future-proof generation of `explorers`, `freethinkers`, and `creators`.
 
-**OS stands for Operating System**
+### OS stands for Operating System
 
 Anyone who has been in a treehouse knows that good construction starts with a good plan. Our goal is to build a self-organizing, protocol-driven charity that can grow with a low operating budget and is not dependent on the founders.
 
 Created today based on a set of rules, TreehouseOS will eventually become software - an operating system.
 
-**OS stands for Open Source**
+### OS stands for Open Source**
 
 We want to prove that technology can do a lot of good. That is why we want to make use of its biggest advantage - scalability. The project will be public, available to contributors everywhere.
 
 ## Treehouse structure
 
-Treehouse consists of `blocks`, `creators`, `blueprint`, `tree`, and ultimately `heroes`.
+Treehouse consists of `blocks`, `creators`, `blueprint`, `backyard`, and ultimately `heroes`.
 
 + `Blocks` are the educational initiatives of `creators`, e.g., workshops, classes, or other activities that fit into the `blueprint`.
-+ `Creators` include `promoters` (initiative coordinators), `builders` (instructors), `hosts` (owners of the `tree`), and `fundraisers` (charity coordinators).
++ `Creators` include `promoters` (initiative coordinators), `builders` (instructors), `hosts` (owners of the `backyard`), and `fundraisers` (charity coordinators).
 + `Blueprint` is an agreed matrix that defines the educational framework of the TreehouseOS project. Proposed dimensions mandatory to be defined for each `block`: main `persona` developed, target age group.
-+ `Tree` is the venue where the block will be organized. Places should be close to nature.
-+ `Heroes` are the young participants of the `blocks`
++ `Backyard` is the venue where the block will be organized. Places should be close to nature.
++ `Heroes` are the young participants of the `blocks`.
 
 ## Governance model
 
@@ -55,3 +56,8 @@ It is important to note that one person can play more than one role, e.g. a cafe
 
 + Establishment a `board of directors` with `veto power` as a safeguard against fraud attempts.
 + `Voting right` for `funders`
+
+## Contributors
+
++ **Tom Ogrodzki** – building next-gen commercial real estate with proptech, data, and AI. CEO @ [REDD Platform](https://www2.reddplatform.com)
++ this is where your name can be!
