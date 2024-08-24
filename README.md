@@ -314,7 +314,7 @@ print(f"Final withdrawal (block): {final_withdrawal_block}")
 
 TBC
 
-### Further considerations
+## Further considerations
 
 + `Blocks` must be free of charge for `heroes`
 + `Block completion` definition + rules for the release of funding
